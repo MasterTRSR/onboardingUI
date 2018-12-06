@@ -1,0 +1,19 @@
+{
+  "name": "onboarding-ui",
+  "version": "1.0.0",
+  "description": "Web page to demonstrate web services developed onboarding",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "onboarding",
+    "ui",
+    "lithium"
+  ],
+  "author": "sravan.reddy",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
